@@ -1,0 +1,15 @@
+{
+    "name": "adampmoss/magento-deposit-total",
+    "type": "magento-module",
+    "description": "Creates a Zero VAT Deposit row total made up of custom price attributes set against products.",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors": [
+    {
+    	"name": "Adam Moss",
+    	"homepage": "http://www.creare.co.uk",
+    	"role": "Web Developer"
+    }
+    ]
+}
