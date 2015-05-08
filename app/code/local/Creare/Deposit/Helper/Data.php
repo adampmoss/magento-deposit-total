@@ -21,7 +21,7 @@ class Creare_Deposit_Helper_Data extends Mage_Core_Helper_Abstract
 
 	public function depositLabel()
 	{
-		return $this->__('Zero VAT Deposit');
+		return $this->__('Zero Tax Deposit');
 	}
 
 	public function depositCode()

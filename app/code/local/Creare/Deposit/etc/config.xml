@@ -111,7 +111,7 @@
         <pdf>
             <totals>
                 <creare_deposit translate="title">
-                    <title>Zero VAT Deposit</title>
+                    <title>Zero Tax Deposit</title>
                     <source_field>deposit_amount</source_field>
                     <font_size>7</font_size>
                     <display_zero>0</display_zero>
