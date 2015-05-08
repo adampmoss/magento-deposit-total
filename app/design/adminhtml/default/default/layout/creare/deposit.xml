@@ -1,0 +1,7 @@
+<layout>
+	<adminhtml_sales_order_creditmemo_new>
+		<reference name="adjustments">
+			<action method="setTemplate"><template>creare/deposit/sales/order/creditmemo/create/totals/adjustments.phtml</template></action>
+		</reference>
+	</adminhtml_sales_order_creditmemo_new>
+</layout>

@@ -1,0 +1,8 @@
+<config>
+	<modules>
+		<Creare_Deposit>
+			<active>true</active>
+			<codePool>local</codePool>
+		</Creare_Deposit>
+	</modules>
+</config>
